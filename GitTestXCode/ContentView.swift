@@ -3,13 +3,13 @@
 //  GitTestXCode
 //
 //  Created by Fabian Schäfle on 31.01.22.
-//
+//  Changes made by Patrick Weyhe on 31.01.22
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, Patrick!")
+        Text("Hello, Fabian!")
             .padding()
     }
 }
